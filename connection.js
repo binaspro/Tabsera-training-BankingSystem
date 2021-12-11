@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const DB = "tabsera";
+const DB = "EVC";
 
 async function connectToDB() {
   try {
